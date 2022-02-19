@@ -1,2 +1,2 @@
 # BingSpammer
-For bing rewards(Obviously...)
+For bing rewards
